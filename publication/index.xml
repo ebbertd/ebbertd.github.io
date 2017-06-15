@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Daniel Ebbert</title>
+    <link>https://ebbert.nl/publication/</link>
+    <description>Recent content in Publications on Daniel Ebbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daniel Ebbert</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automating lecture capture using Opencast</title>
+      <link>https://ebbert.nl/publication/automated-lecture-recording/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/publication/automated-lecture-recording/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Daniel Ebbert</title>
+    <link>https://ebbert.nl/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Daniel Ebbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Daniel Ebbert</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Video Usage Analysis</title>
+      <link>https://ebbert.nl/talk/opencast-video-usage/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/talk/opencast-video-usage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
