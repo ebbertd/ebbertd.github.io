@@ -8,14 +8,34 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniel Ebbert</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ebbert.nl/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Opencast Annotation Tool Updates</title>
+      <link>https://ebbert.nl/talk/vienna-annotation-tool-updates/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/talk/vienna-annotation-tool-updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piwik (Matomo) in Opencast </title>
+      <link>https://ebbert.nl/talk/vienna-matomo-in-opencast/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/talk/vienna-matomo-in-opencast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Video Usage Analysis</title>
-      <link>https://ebbert.nl/talk/opencast-video-usage/</link>
+      <link>https://ebbert.nl/talk/valencia-shiny/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/opencast-video-usage/</guid>
+      <guid>https://ebbert.nl/talk/valencia-shiny/</guid>
       <description></description>
     </item>
     
