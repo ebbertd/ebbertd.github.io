@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Ebbert on Daniel Ebbert</title>
+    <title>Daniel Ebbert</title>
     <link>https://ebbert.nl/</link>
-    <description>Recent content in Daniel Ebbert on Daniel Ebbert</description>
+    <description>Recent content on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Daniel Ebbert</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ebbert.nl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ebbert.nl/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/home/about/</guid>
+      <description>Biography Daniel Ebbert is currently working on lecture recordings at the University of Münster while completing his master studies at the University of Twente. His interests include lecture recording, eLearing, learning analytics as well as appropriation and Q-methodology.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://ebbert.nl/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ebbert.nl/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ebbert.nl/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opencast Annotation Tool Updates</title>
+      <link>https://ebbert.nl/talk/vienna-annotation-tool-updates/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/talk/vienna-annotation-tool-updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piwik (Matomo) in Opencast </title>
+      <link>https://ebbert.nl/talk/vienna-matomo-in-opencast/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/talk/vienna-matomo-in-opencast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
@@ -21,10 +77,10 @@
     
     <item>
       <title>Video Usage Analysis</title>
-      <link>https://ebbert.nl/talk/opencast-video-usage/</link>
+      <link>https://ebbert.nl/talk/valencia-shiny/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/opencast-video-usage/</guid>
+      <guid>https://ebbert.nl/talk/valencia-shiny/</guid>
       <description></description>
     </item>
     
