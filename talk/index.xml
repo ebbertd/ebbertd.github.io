@@ -6,34 +6,43 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Daniel Ebbert</copyright>
+    <copyright>&amp;copy; 2018 Daniel Ebbert</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ebbert.nl/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Opencast Annotation Tool Updates</title>
-      <link>https://ebbert.nl/talk/vienna-annotation-tool-updates/</link>
-      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebbert.nl/talk/vienna-annotation-tool-updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Piwik (Matomo) in Opencast </title>
       <link>https://ebbert.nl/talk/vienna-matomo-in-opencast/</link>
-      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Feb 2018 13:30:00 +0100</pubDate>
       
       <guid>https://ebbert.nl/talk/vienna-matomo-in-opencast/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Opencast Annotation Tool Updates</title>
+      <link>https://ebbert.nl/talk/vienna-annotation-tool-updates/</link>
+      <pubDate>Thu, 15 Feb 2018 11:30:00 +0100</pubDate>
+      
+      <guid>https://ebbert.nl/talk/vienna-annotation-tool-updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating Lecture Capture Using Opencast</title>
+      <link>https://ebbert.nl/talk/eunis-automating-lecture-capture/</link>
+      <pubDate>Wed, 07 Jun 2017 11:00:00 +0100</pubDate>
+      
+      <guid>https://ebbert.nl/talk/eunis-automating-lecture-capture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Video Usage Analysis</title>
       <link>https://ebbert.nl/talk/valencia-shiny/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>https://ebbert.nl/talk/valencia-shiny/</guid>
       <description></description>
