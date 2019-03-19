@@ -6,72 +6,27 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Daniel Ebbert</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Daniel Ebbert</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ebbert.nl/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Poster: Wie nutzen Studierende Videoaufzeichnungen von Vorlesungen? Eine Clusteranalyse von Befragungsdaten</title>
-      <link>https://ebbert.nl/talk/iwm-learnmap-cluster-poster/</link>
-      <pubDate>Thu, 16 Aug 2018 12:09:49 +0200</pubDate>
+      <title>How do students use lecture recordings?</title>
+      <link>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</link>
+      <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/iwm-learnmap-cluster-poster/</guid>
+      <guid>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Opencast Workflows</title>
-      <link>https://ebbert.nl/talk/workflows-dach-2018/</link>
-      <pubDate>Thu, 16 Aug 2018 12:04:46 +0200</pubDate>
+      <title>Automating lecture capture using Opencast</title>
+      <link>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</link>
+      <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/workflows-dach-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vorstellung des Opencast Annotation Tool 2.0</title>
-      <link>https://ebbert.nl/talk/oat-v2-dach-2018/</link>
-      <pubDate>Thu, 16 Aug 2018 12:04:46 +0200</pubDate>
-      
-      <guid>https://ebbert.nl/talk/oat-v2-dach-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piwik (Matomo) in Opencast </title>
-      <link>https://ebbert.nl/talk/vienna-matomo-in-opencast/</link>
-      <pubDate>Thu, 15 Feb 2018 13:30:00 +0100</pubDate>
-      
-      <guid>https://ebbert.nl/talk/vienna-matomo-in-opencast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opencast Annotation Tool Updates</title>
-      <link>https://ebbert.nl/talk/vienna-annotation-tool-updates/</link>
-      <pubDate>Thu, 15 Feb 2018 11:30:00 +0100</pubDate>
-      
-      <guid>https://ebbert.nl/talk/vienna-annotation-tool-updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automating Lecture Capture Using Opencast</title>
-      <link>https://ebbert.nl/talk/eunis-automating-lecture-capture/</link>
-      <pubDate>Wed, 07 Jun 2017 11:00:00 +0100</pubDate>
-      
-      <guid>https://ebbert.nl/talk/eunis-automating-lecture-capture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video Usage Analysis</title>
-      <link>https://ebbert.nl/talk/valencia-shiny/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://ebbert.nl/talk/valencia-shiny/</guid>
+      <guid>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     

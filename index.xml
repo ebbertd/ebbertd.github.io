@@ -1,86 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Ebbert</title>
+    <title>Daniel Ebbert on Daniel Ebbert</title>
     <link>https://ebbert.nl/</link>
-    <description>Recent content on Daniel Ebbert</description>
+    <description>Recent content in Daniel Ebbert on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Daniel Ebbert</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ebbert.nl/index.xml" rel="self" type="application/rss+xml" />
-    
+    <copyright>&amp;copy; 2019 Daniel Ebbert</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>https://ebbert.nl/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>How students use lecture recordings</title>
+      <link>https://ebbert.nl/post/how-students-use-lecture-recordings/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/home/about/</guid>
-      <description>Biography Daniel Ebbert is currently working on lecture recordings at the University of Münster while completing his master studies at the University of Twente. His interests include lecture recording, eLearing, learning analytics as well as appropriation and Q-methodology.</description>
+      <guid>https://ebbert.nl/post/how-students-use-lecture-recordings/</guid>
+      <description>
+
+&lt;p&gt;The following post is a copy for my website of an article that was first published in the &lt;a href=&#34;https://news.media-and-learning.eu/featured-articles/how-students-use-lecture-recordings/&#34; target=&#34;_blank&#34;&gt;Media &amp;amp; Learning Newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-students-use-lecture-recordings&#34;&gt;How students use lecture recordings&lt;/h1&gt;
+
+&lt;p&gt;At the University of Münster, Germany, the lecture capture service started in the winter term &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;17&lt;/sub&gt;. The systematic evaluations of the first three semesters demonstrated: students like the service because it warrants more freedom in the everyday organization of their studies. Providing more students with lecture recordings was a hot topic in the students parliament elections.&lt;/p&gt;
+
+&lt;p&gt;While students enjoyed having access to recorded lectures the lecturers&amp;rsquo; willingness to participate increased. This positive trend also raised the question as to how the students are using the lecture recordings. More specifically:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Are there any strategic patterns in how students use lecture recordings?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I started my dissertation project, I decided to try to answer this question. For this purpose, we combined the evaluation data from three semesters. This data included variables such as the frequency of using lecture recording, the frequency of attending the lecture in the lecture room, the degree of selectivity in watching lecture recordings, and tendency of watching lecture recordings, or parts of these, repetitively. A total of 1023 students watched the lecture recordings and took part in the evaluation. To identify usage patterns a cluster analysis using &lt;a href=&#34;https://doi.org/10.1002/9780470316801.ch2&#34; target=&#34;_blank&#34;&gt;Partitioning Around Medoids&lt;/a&gt; with &lt;a href=&#34;https://www.jstor.org/stable/2528823&#34; target=&#34;_blank&#34;&gt;Gower distance&lt;/a&gt; was
+performed. Five clusters were extracted:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Holistically repeating users&lt;/strong&gt; watched most of the lecture recordings and some of them even multiple times. Usually they watched each lecture recording completely. Although they knew the lecture recordings would be available, they only missed a few lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Selectively repeating users&lt;/strong&gt; watched about half of the lecture recordings but did not watch them multiple times. Usually they watched the lecture recordings completely. Although they knew the lecture recordings would be available, they did not miss any lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Holistically deepening users&lt;/strong&gt; watched most of the lecture recordings and some of them even multiple times. Usually they watched only parts of the lecture recordings. Although they knew the lecture recordings would be available, they only missed a few lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Selectively deepening users&lt;/strong&gt; watched about half of the lecture recordings but did not watch them multiple times. Usually they watched only parts of the lecture recordings. Although they knew the lecture recordings would be available, they did not miss any lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Substituting users&lt;/strong&gt; watched most of the lecture recordings (and most of them completely) but did not watch them multiple times. Because they knew the lecture recordings would be available, they missed most of the lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These clusters describe the current use of lecture recordings quite well. Nevertheless, some important questions remain open and deservefurther research, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;How does the usage of the lecture recordings change over time?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do students change usage pattern based on the lecture series they are attending?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How do lecture recordings influence students&amp;rsquo; learning behavior and strategies?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;This text is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://ebbert.nl/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>How do students use lecture recordings?</title>
+      <link>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</link>
+      <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/home/publications/</guid>
+      <guid>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ebbert.nl/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Poster: Wie nutzen Studierende Videoaufzeichnungen von Vorlesungen? Eine Clusteranalyse von Befragungsdaten</title>
+      <link>https://ebbert.nl/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/home/talks/</guid>
+      <guid>https://ebbert.nl/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://ebbert.nl/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Patterns in the appropriation of a learning management system by instructors based on Q-methodology</title>
+      <link>https://ebbert.nl/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opencast Annotation Tool Updates</title>
-      <link>https://ebbert.nl/talk/vienna-annotation-tool-updates/</link>
-      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebbert.nl/talk/vienna-annotation-tool-updates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piwik (Matomo) in Opencast </title>
-      <link>https://ebbert.nl/talk/vienna-matomo-in-opencast/</link>
-      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebbert.nl/talk/vienna-matomo-in-opencast/</guid>
+      <guid>https://ebbert.nl/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nl/publication/automated-lecture-recording/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</link>
+      <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/publication/automated-lecture-recording/</guid>
+      <guid>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Video Usage Analysis</title>
-      <link>https://ebbert.nl/talk/valencia-shiny/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      <title>Automating lecture capture using Opencast</title>
+      <link>https://ebbert.nl/publication/automating-lecture-capture-using-opencast/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/valencia-shiny/</guid>
+      <guid>https://ebbert.nl/publication/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     

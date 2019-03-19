@@ -2,115 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/talk/iwm-learnmap-cluster-poster/</loc>
-      <lastmod>2018-08-16T12:09:49+02:00</lastmod>
+      <loc>https://ebbert.nl/post/how-students-use-lecture-recordings/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/talk/workflows-dach-2018/</loc>
-      <lastmod>2018-08-16T12:04:46+02:00</lastmod>
+      <loc>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/talk/oat-v2-dach-2018/</loc>
-      <lastmod>2018-08-16T12:04:46+02:00</lastmod>
+      <loc>https://ebbert.nl/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/talk/vienna-matomo-in-opencast/</loc>
-      <lastmod>2018-02-15T13:30:00+01:00</lastmod>
+      <loc>https://ebbert.nl/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/talk/vienna-annotation-tool-updates/</loc>
-      <lastmod>2018-02-15T11:30:00+01:00</lastmod>
+      <loc>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/talk/eunis-automating-lecture-capture/</loc>
-      <lastmod>2017-06-07T11:00:00+01:00</lastmod>
+      <loc>https://ebbert.nl/publication/automating-lecture-capture-using-opencast/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
-    
     <url>
     
-      <loc>https://ebbert.nl/publication/automated-lecture-recording/</loc>
-      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+      <loc>https://ebbert.nl/post/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>https://ebbert.nl/talk/valencia-shiny/</loc>
-      <lastmod>2017-03-03T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://ebbert.nl/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
     
     <url>
     
       <loc>https://ebbert.nl/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
-    
     
     <url>
     
       <loc>https://ebbert.nl/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
   
     
+    <url>
+    
+      <loc>https://ebbert.nl/author/admin/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    </url>
+    
+  
     
     <url>
     
-      <loc>https://ebbert.nl/publication_types/1/</loc>
-      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+      <loc>https://ebbert.nl/publication_types/0/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
+    <url>
+    
+      <loc>https://ebbert.nl/publication_types/1/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ebbert.nl/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ebbert.nl/authors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
@@ -120,31 +124,27 @@
     
   
     
-    
     <url>
     
       <loc>https://ebbert.nl/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
-    
     
     <url>
     
       <loc>https://ebbert.nl/publication_types/</loc>
-      <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
       <priority>0</priority>
     </url>
     
   
     
-    
     <url>
     
       <loc>https://ebbert.nl/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
