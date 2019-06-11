@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Ebbert on Daniel Ebbert</title>
@@ -7,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Daniel Ebbert</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 11:30:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How do students use lecture recordings? A cluster analysis of evaluation data</title>
+      <link>https://ebbert.nl/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
+      <pubDate>Wed, 05 Jun 2019 11:30:00 +0000</pubDate>
+      
+      <guid>https://ebbert.nl/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How students use lecture recordings</title>
