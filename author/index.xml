@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Daniel Ebbert</title>
-    <link>https://ebbert.nl/author/</link>
+    <link>https://ebbert.nrw/author/</link>
     <description>Recent content in Authors on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Daniel Ebbert</copyright>
     
-	<atom:link href="https://ebbert.nl/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ebbert.nrw/author/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

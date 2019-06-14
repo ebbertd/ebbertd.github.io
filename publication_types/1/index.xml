@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Daniel Ebbert</title>
-    <link>https://ebbert.nl/publication_types/1/</link>
+    <link>https://ebbert.nrw/publication_types/1/</link>
     <description>Recent content in 1 on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Daniel Ebbert</copyright>
     <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ebbert.nl/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ebbert.nrw/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nl/publication/automating-lecture-capture-using-opencast/</link>
+      <link>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/publication/automating-lecture-capture-using-opencast/</guid>
+      <guid>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     

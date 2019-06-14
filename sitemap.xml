@@ -3,7 +3,40 @@
     
     <url>
     
-      <loc>https://ebbert.nl/</loc>
+      <loc>https://ebbert.nrw/</loc>
+      <lastmod>2019-06-11T14:22:25+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</loc>
+      <lastmod>2019-06-11T14:22:25+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ebbert.nrw/post/how-students-use-lecture-recordings/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</loc>
+      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://ebbert.nrw/publication_types/0/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -12,7 +45,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</loc>
+      <loc>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -20,23 +53,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/post/how-students-use-lecture-recordings/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ebbert.nl/publication_types/0/</loc>
+      <loc>https://ebbert.nrw/publication_types/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -45,7 +62,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</loc>
+      <loc>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -53,16 +70,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/publication_types/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ebbert.nl/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</loc>
+      <loc>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -70,15 +78,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://ebbert.nl/publication_types/1/</loc>
+      <loc>https://ebbert.nrw/publication_types/1/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -87,7 +87,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/publication/automating-lecture-capture-using-opencast/</loc>
+      <loc>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/post/</loc>
+      <loc>https://ebbert.nrw/post/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -103,7 +103,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/publication/</loc>
+      <loc>https://ebbert.nrw/publication/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -111,7 +111,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/talk/</loc>
+      <loc>https://ebbert.nrw/talk/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -119,7 +119,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/author/admin/</loc>
+      <loc>https://ebbert.nrw/author/admin/</loc>
       <lastmod>2019-03-19T10:15:15+01:00</lastmod>
     </url>
     
@@ -127,7 +127,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/authors/</loc>
+      <loc>https://ebbert.nrw/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -135,7 +135,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/author/</loc>
+      <loc>https://ebbert.nrw/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -143,7 +143,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/categories/</loc>
+      <loc>https://ebbert.nrw/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>https://ebbert.nl/tags/</loc>
+      <loc>https://ebbert.nrw/tags/</loc>
       <priority>0</priority>
     </url>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Daniel Ebbert</title>
-    <link>https://ebbert.nl/talk/</link>
+    <link>https://ebbert.nrw/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Daniel Ebbert</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ebbert.nl/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ebbert.nrw/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How do students use lecture recordings? A cluster analysis of evaluation data</title>
-      <link>https://ebbert.nl/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
+      <link>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
       <pubDate>Wed, 05 Jun 2019 11:30:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
+      <guid>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How do students use lecture recordings?</title>
-      <link>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</link>
+      <link>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</link>
       <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/how-do-students-use-lecture-recordings/</guid>
+      <guid>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</link>
+      <link>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nl/talk/automating-lecture-capture-using-opencast/</guid>
+      <guid>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     
