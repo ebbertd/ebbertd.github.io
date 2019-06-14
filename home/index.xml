@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Daniel Ebbert</title>
-    <link>https://ebbert.nrw/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA-NC; 2019 Daniel Ebbert</copyright>
     
-	<atom:link href="https://ebbert.nrw/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Biography</title>
-      <link>https://ebbert.nrw/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/home/about/</guid>
+      <guid>/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://ebbert.nrw/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://ebbert.nrw/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://ebbert.nrw/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ebbert.nrw/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     

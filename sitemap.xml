@@ -1,159 +1,104 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/</loc>
-      <lastmod>2019-06-11T14:22:25+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/</loc>
+    <lastmod>2019-06-14T11:24:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</loc>
-      <lastmod>2019-06-11T14:22:25+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</loc>
+    <lastmod>2019-06-14T11:24:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/post/how-students-use-lecture-recordings/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/post/how-students-use-lecture-recordings/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</loc>
+    <lastmod>2019-06-14T11:24:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication_types/0/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication_types/0/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication_types/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication_types/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication_types/7/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication_types/1/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</loc>
+    <lastmod>2019-06-14T11:24:35+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication_types/1/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/post/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/publication/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/post/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/talk/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/publication/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/author/admin/</loc>
-      <lastmod>2019-03-19T10:15:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/talk/</loc>
+    <lastmod>2019-03-19T10:15:15+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/authors/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/authors/admin/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/author/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/authors/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/categories/</loc>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://ebbert.nrw/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://ebbert.nrw/tags/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>

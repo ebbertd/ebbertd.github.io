@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Daniel Ebbert</title>
-    <link>https://ebbert.nrw/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA-NC; 2019 Daniel Ebbert</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ebbert.nrw/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Poster: Wie nutzen Studierende Videoaufzeichnungen von Vorlesungen? Eine Clusteranalyse von Befragungsdaten</title>
-      <link>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
+      <link>/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
+      <guid>/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns in the appropriation of a learning management system by instructors based on Q-methodology</title>
-      <link>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
+      <link>/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
+      <guid>/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</link>
+      <link>/publication/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</guid>
+      <guid>/publication/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Daniel Ebbert</title>
-    <link>https://ebbert.nrw/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Daniel Ebbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA-NC; 2019 Daniel Ebbert</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ebbert.nrw/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How students use lecture recordings</title>
-      <link>https://ebbert.nrw/post/how-students-use-lecture-recordings/</link>
+      <link>/post/how-students-use-lecture-recordings/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/post/how-students-use-lecture-recordings/</guid>
+      <guid>/post/how-students-use-lecture-recordings/</guid>
       <description>The following post is a copy for my website of an article that was first published in the Media &amp;amp; Learning Newsletter.
 How students use lecture recordings At the University of Münster, Germany, the lecture capture service started in the winter term 2016&amp;frasl;17. The systematic evaluations of the first three semesters demonstrated: students like the service because it warrants more freedom in the everyday organization of their studies. Providing more students with lecture recordings was a hot topic in the students parliament elections.</description>
     </item>

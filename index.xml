@@ -1,29 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Ebbert on Daniel Ebbert</title>
-    <link>https://ebbert.nrw/</link>
-    <description>Recent content in Daniel Ebbert on Daniel Ebbert</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Daniel Ebbert</title>
+    <link>/</link>
+    <description>Recent content on Daniel Ebbert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA-NC; 2019 Daniel Ebbert</copyright>
     <lastBuildDate>Wed, 05 Jun 2019 11:30:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>How do students use lecture recordings? A cluster analysis of evaluation data</title>
-      <link>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
+      <link>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
       <pubDate>Wed, 05 Jun 2019 11:30:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
+      <guid>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How students use lecture recordings</title>
-      <link>https://ebbert.nrw/post/how-students-use-lecture-recordings/</link>
+      <link>/post/how-students-use-lecture-recordings/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/post/how-students-use-lecture-recordings/</guid>
+      <guid>/post/how-students-use-lecture-recordings/</guid>
       <description>
 
 &lt;p&gt;The following post is a copy for my website of an article that was first published in the &lt;a href=&#34;https://news.media-and-learning.eu/featured-articles/how-students-use-lecture-recordings/&#34; target=&#34;_blank&#34;&gt;Media &amp;amp; Learning Newsletter&lt;/a&gt;.&lt;/p&gt;
@@ -69,46 +72,46 @@ performed. Five clusters were extracted:&lt;/p&gt;
     
     <item>
       <title>How do students use lecture recordings?</title>
-      <link>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</link>
+      <link>/talk/how-do-students-use-lecture-recordings/</link>
       <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</guid>
+      <guid>/talk/how-do-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Wie nutzen Studierende Videoaufzeichnungen von Vorlesungen? Eine Clusteranalyse von Befragungsdaten</title>
-      <link>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
+      <link>/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
+      <guid>/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patterns in the appropriation of a learning management system by instructors based on Q-methodology</title>
-      <link>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
+      <link>/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
+      <guid>/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</link>
+      <link>/talk/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</guid>
+      <guid>/talk/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</link>
+      <link>/publication/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ebbert.nrw/publication/automating-lecture-capture-using-opencast/</guid>
+      <guid>/publication/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     
