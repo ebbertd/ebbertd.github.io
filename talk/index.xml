@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Daniel Ebbert</title>
+    <title>Recent &amp; Upcoming Talks | Daniel Ebbert</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Daniel Ebbert</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>CC-BY-SA-NC; 2019 Daniel Ebbert</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/talk/featured.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How students use (psychology) lecture recordings: An approach to explore study strategies</title>
+      <link>/talk/how-do-psychology-students-use-lecture-recordings/</link>
+      <pubDate>Thu, 26 Sep 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/how-do-psychology-students-use-lecture-recordings/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende</title>
+      <link>/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</link>
+      <pubDate>Thu, 12 Sep 2019 11:30:00 +0000</pubDate>
+      <guid>/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How do students use lecture recordings? A cluster analysis of evaluation data</title>
       <link>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
       <pubDate>Wed, 05 Jun 2019 11:30:00 +0000</pubDate>
-      
       <guid>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
       <description></description>
     </item>
@@ -25,7 +40,6 @@
       <title>How do students use lecture recordings?</title>
       <link>/talk/how-do-students-use-lecture-recordings/</link>
       <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
-      
       <guid>/talk/how-do-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
@@ -34,7 +48,6 @@
       <title>Automating lecture capture using Opencast</title>
       <link>/talk/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
-      
       <guid>/talk/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>

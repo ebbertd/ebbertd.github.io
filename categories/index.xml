@@ -4,11 +4,11 @@
     <title>Categories on Daniel Ebbert</title>
     <link>https://ebbert.nrw/categories/</link>
     <description>Recent content in Categories on Daniel Ebbert</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright>
     
-	<atom:link href="https://ebbert.nrw/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ebbert.nrw/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -4,11 +4,11 @@
     <title>Tags on Daniel Ebbert</title>
     <link>https://ebbert.nrw/tags/</link>
     <description>Recent content in Tags on Daniel Ebbert</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright>
     
-	<atom:link href="https://ebbert.nrw/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ebbert.nrw/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
