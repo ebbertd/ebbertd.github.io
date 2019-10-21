@@ -2,154 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Ebbert</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/</link>
+      <atom:link href="https://ebbert.nrw/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Ebbert</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Thu, 26 Sep 2019 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Daniel Ebbert</title>
-      <link>/</link>
+      <link>https://ebbert.nrw/</link>
     </image>
     
     <item>
-      <title>How students use (psychology) lecture recordings: An approach to explore study strategies</title>
-      <link>/talk/how-do-psychology-students-use-lecture-recordings/</link>
-      <pubDate>Thu, 26 Sep 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/how-do-psychology-students-use-lecture-recordings/</guid>
+      <title>Posts</title>
+      <link>https://ebbert.nrw/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://ebbert.nrw/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende</title>
-      <link>/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</link>
-      <pubDate>Thu, 12 Sep 2019 11:30:00 +0000</pubDate>
-      <guid>/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</guid>
+      <title>Publications</title>
+      <link>https://ebbert.nrw/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://ebbert.nrw/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende</title>
-      <link>/post/anleitung-studierende-vorlesungsaufzeichnungen/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/anleitung-studierende-vorlesungsaufzeichnungen/</guid>
-      <description>
-
-&lt;h1 id=&#34;preprint&#34;&gt;Preprint&lt;/h1&gt;
-
-&lt;p&gt;Im Dezember 2018 veröffentlichte &lt;a href=&#34;https://emilynordmann.github.io/&#34; target=&#34;_blank&#34;&gt;Emily Nordmann&lt;/a&gt; zusammen mit einigen weiteren Autoren ein &lt;a href=&#34;https://doi.org/10.31234/osf.io/sd7u4&#34; target=&#34;_blank&#34;&gt;Preprint&lt;/a&gt; mit dem Titel: &lt;strong&gt;Lecture capture: Practical recommendations for students and instructors&lt;/strong&gt;. In diesem Artikel werden praktische Empfehlungen zusammengestellt die Strategien zum selbstregulierten Lernen mit der Nutzung von Vorlesungsaufzeichnungen unterstützen sollen. Für Studierende wird unterstrichen wie wichtig es ist in den Vorlesungen anwesend zu sein. Zusätzlich dazu wird diskutiert wie die Vorlesungsaufzeichnungen am besten genutzt werden können.&lt;/p&gt;
-
-&lt;p&gt;Als ich diesen Preprint laß dachte ich mir direkt das dies vernünftige Empfehlungen sind die auf dem aktuellen Forschungsstand basieren. Einige dieser Empfehlungen passten auch zu meiner eigenen Erfahrungen aus dem Studium so wie den Erfahrungen aus meiner Arbeit als jemand der die Vorlesungsaufzeichnungen verwaltet und deswegen viel mit Lehrenden und Studierenden zu tun hat. Im ganzen ist der Preprint meiner Meinung nach ein guter Artikel und ich freue mich schon darauf die veröffentlichte Version zu lesen.&lt;/p&gt;
-
-&lt;h1 id=&#34;using-lecture-recordings-a-guide-for-students&#34;&gt;Using lecture recordings: A guide for students&lt;/h1&gt;
-
-&lt;p&gt;Praktischerweise hat Emily nicht nur den Preprint mit den Empfehlungen für die Studierenden geschrieben sondern hat auch eine &lt;a href=&#34;https://osf.io/huydx/&#34; target=&#34;_blank&#34;&gt;Infografik&lt;/a&gt; erstellt auf der die Empfehlungen kurz zusammengefasst wurden. In dieser Form können die Empfehlungen einfach verbreitet werden. Allerdings ist diese Infografik nur in Englisch verfügbar.&lt;/p&gt;
-
-&lt;h1 id=&#34;vorlesungsaufzeichnungen-nutzen-eine-anleitung-für-studierende&#34;&gt;Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende&lt;/h1&gt;
-
-&lt;p&gt;Als ich auf der &lt;a href=&#34;https://www.media-and-learning.eu/&#34; target=&#34;_blank&#34;&gt;Media and Learning&lt;/a&gt; Tagung in Leuven war hatte ich endlich Gelegenheit Emily in Person kennenzulernen. Das hat mich sehr gefreut und wir haben uns direkt gut verstanden. Bei dieser Gelegenheit fragte ich Sie ob es möglich wäre die Quelldatei für die Infografik zu erhalten. Sie stimmte diesem zu und kurz nach der Tagung erhielt ich die Quelldatei um die Infografik ins Deutsche zu übersetzen. Die Übersetzung wurde größtenteils von Bea Elkemann und zu kleinem Teil von mir erstellt. An dieser Stelle nochmal vielen Dank an Bea für die gute Übersetzung! Die Infografik mit dem Titel &lt;strong&gt;&lt;a href=&#34;https://osf.io/e6r7a/&#34; target=&#34;_blank&#34;&gt;Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende&lt;/a&gt;&lt;/strong&gt; ist nun auch in Deutsch verfügbar.&lt;/p&gt;
-
-&lt;p&gt;Auf der &lt;a href=&#34;https://www.uni-muenster.de/OC-DACH/&#34; target=&#34;_blank&#34;&gt;Opencast-Tagung D/A/CH 2019&lt;/a&gt; in Münster stellte ich diese Anleitung den anwesenden Teilnehmern vor und es gab durchweg positives Feedback dazu. Es geht soweit das ich inzwischen von mehreren Einrichtungen weiß die diese Anleitung an ihre Studierenden weitergeben werden. Manche passen das Design etwas an und manche passen das Layout etwas an aber der Inhalt wird so weitergegeben. Einige Einrichtungen gehen so weit das physikalische Kopien gedruckt und an die Studiereden verteilt werden. Ich bin echt gespannt wie das noch weiter geht. Vielleicht sehen wir ja bald noch ein Video dazu.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;This text is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How do students use lecture recordings? A cluster analysis of evaluation data</title>
-      <link>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
-      <pubDate>Wed, 05 Jun 2019 11:30:00 +0000</pubDate>
-      <guid>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ebbert.nrw/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://ebbert.nrw/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How students use lecture recordings</title>
-      <link>/post/how-students-use-lecture-recordings/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/how-students-use-lecture-recordings/</guid>
-      <description>
-
-&lt;p&gt;The following post is a copy for my website of an article that was first published in the &lt;a href=&#34;https://news.media-and-learning.eu/featured-articles/how-students-use-lecture-recordings/&#34; target=&#34;_blank&#34;&gt;Media &amp;amp; Learning Newsletter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;how-students-use-lecture-recordings&#34;&gt;How students use lecture recordings&lt;/h1&gt;
-
-&lt;p&gt;At the University of Münster, Germany, the lecture capture service started in the winter term &lt;sup&gt;2016&lt;/sup&gt;&amp;frasl;&lt;sub&gt;17&lt;/sub&gt;. The systematic evaluations of the first three semesters demonstrated: students like the service because it warrants more freedom in the everyday organization of their studies. Providing more students with lecture recordings was a hot topic in the students parliament elections.&lt;/p&gt;
-
-&lt;p&gt;While students enjoyed having access to recorded lectures the lecturers&amp;rsquo; willingness to participate increased. This positive trend also raised the question as to how the students are using the lecture recordings. More specifically:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Are there any strategic patterns in how students use lecture recordings?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;When I started my dissertation project, I decided to try to answer this question. For this purpose, we combined the evaluation data from three semesters. This data included variables such as the frequency of using lecture recording, the frequency of attending the lecture in the lecture room, the degree of selectivity in watching lecture recordings, and tendency of watching lecture recordings, or parts of these, repetitively. A total of 1023 students watched the lecture recordings and took part in the evaluation. To identify usage patterns a cluster analysis using &lt;a href=&#34;https://doi.org/10.1002/9780470316801.ch2&#34; target=&#34;_blank&#34;&gt;Partitioning Around Medoids&lt;/a&gt; with &lt;a href=&#34;https://www.jstor.org/stable/2528823&#34; target=&#34;_blank&#34;&gt;Gower distance&lt;/a&gt; was
-performed. Five clusters were extracted:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Holistically repeating users&lt;/strong&gt; watched most of the lecture recordings and some of them even multiple times. Usually they watched each lecture recording completely. Although they knew the lecture recordings would be available, they only missed a few lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Selectively repeating users&lt;/strong&gt; watched about half of the lecture recordings but did not watch them multiple times. Usually they watched the lecture recordings completely. Although they knew the lecture recordings would be available, they did not miss any lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Holistically deepening users&lt;/strong&gt; watched most of the lecture recordings and some of them even multiple times. Usually they watched only parts of the lecture recordings. Although they knew the lecture recordings would be available, they only missed a few lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Selectively deepening users&lt;/strong&gt; watched about half of the lecture recordings but did not watch them multiple times. Usually they watched only parts of the lecture recordings. Although they knew the lecture recordings would be available, they did not miss any lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Substituting users&lt;/strong&gt; watched most of the lecture recordings (and most of them completely) but did not watch them multiple times. Because they knew the lecture recordings would be available, they missed most of the lectures in the lecture room.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These clusters describe the current use of lecture recordings quite well. Nevertheless, some important questions remain open and deservefurther research, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;How does the usage of the lecture recordings change over time?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Do students change usage pattern based on the lecture series they are attending?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;How do lecture recordings influence students&amp;rsquo; learning behavior and strategies?&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;This text is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How do students use lecture recordings?</title>
-      <link>/talk/how-do-students-use-lecture-recordings/</link>
-      <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
-      <guid>/talk/how-do-students-use-lecture-recordings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poster: Wie nutzen Studierende Videoaufzeichnungen von Vorlesungen? Eine Clusteranalyse von Befragungsdaten</title>
-      <link>/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patterns in the appropriation of a learning management system by instructors based on Q-methodology</title>
-      <link>/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automating lecture capture using Opencast</title>
-      <link>/talk/automating-lecture-capture-using-opencast/</link>
-      <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
-      <guid>/talk/automating-lecture-capture-using-opencast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automating lecture capture using Opencast</title>
-      <link>/publication/automating-lecture-capture-using-opencast/</link>
-      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/automating-lecture-capture-using-opencast/</guid>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
       <description></description>
     </item>
     

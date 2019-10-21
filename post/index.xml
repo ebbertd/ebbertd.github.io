@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Daniel Ebbert</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/post/</link>
+      <atom:link href="https://ebbert.nrw/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://ebbert.nrw/post/</link>
     </image>
     
     <item>
       <title>Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende</title>
-      <link>/post/anleitung-studierende-vorlesungsaufzeichnungen/</link>
+      <link>https://ebbert.nrw/post/anleitung-studierende-vorlesungsaufzeichnungen/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/anleitung-studierende-vorlesungsaufzeichnungen/</guid>
+      <guid>https://ebbert.nrw/post/anleitung-studierende-vorlesungsaufzeichnungen/</guid>
       <description>
 
 &lt;h1 id=&#34;preprint&#34;&gt;Preprint&lt;/h1&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>How students use lecture recordings</title>
-      <link>/post/how-students-use-lecture-recordings/</link>
+      <link>https://ebbert.nrw/post/how-students-use-lecture-recordings/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/how-students-use-lecture-recordings/</guid>
+      <guid>https://ebbert.nrw/post/how-students-use-lecture-recordings/</guid>
       <description>
 
 &lt;p&gt;The following post is a copy for my website of an article that was first published in the &lt;a href=&#34;https://news.media-and-learning.eu/featured-articles/how-students-use-lecture-recordings/&#34; target=&#34;_blank&#34;&gt;Media &amp;amp; Learning Newsletter&lt;/a&gt;.&lt;/p&gt;

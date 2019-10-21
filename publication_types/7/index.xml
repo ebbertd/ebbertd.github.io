@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7 on Daniel Ebbert</title>
+    <title>7 | Daniel Ebbert</title>
     <link>https://ebbert.nrw/publication_types/7/</link>
-    <description>Recent content in 7 on Daniel Ebbert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ebbert.nrw/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ebbert.nrw/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
+      <title>7</title>
+      <link>https://ebbert.nrw/publication_types/7/</link>
+    </image>
     
     <item>
       <title>Patterns in the appropriation of a learning management system by instructors based on Q-methodology</title>
       <link>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://ebbert.nrw/publication/patterns-in-the-appropriation-of-a-learning-management-system-by-instructors-based-on-q-methodology/</guid>
       <description></description>
     </item>
