@@ -1,10 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ebbert.nrw/project/chisq-posthoc-test/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ebbert.nrw/</loc>
-    <lastmod>2019-10-21T12:19:28+02:00</lastmod>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebbert.nrw/project/opencastr/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ebbert.nrw/project/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,7 +34,7 @@
   
   <url>
     <loc>https://ebbert.nrw/post/anleitung-studierende-vorlesungsaufzeichnungen/</loc>
-    <lastmod>2019-10-20T23:02:28+02:00</lastmod>
+    <lastmod>2019-10-21T15:12:45+02:00</lastmod>
   </url>
   
   <url>
