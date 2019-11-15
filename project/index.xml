@@ -5,12 +5,20 @@
     <link>https://ebbert.nrw/project/</link>
       <atom:link href="https://ebbert.nrw/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://ebbert.nrw/project/</link>
     </image>
+    
+    <item>
+      <title>matomoR</title>
+      <link>https://ebbert.nrw/project/matomor/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ebbert.nrw/project/matomor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chisq.posthoc.test</title>
