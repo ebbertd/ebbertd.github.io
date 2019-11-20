@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Ebbert</title>
-    <link>https://ebbert.nrw/</link>
-      <atom:link href="https://ebbert.nrw/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Ebbert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Tue, 19 Nov 2019 13:45:00 +0000</lastBuildDate>
     <image>
-      <url>https://ebbert.nrw/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Daniel Ebbert</title>
-      <link>https://ebbert.nrw/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>https://ebbert.nrw/project/</link>
+      <link>/project/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://ebbert.nrw/project/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posters</title>
-      <link>https://ebbert.nrw/poster/</link>
+      <link>/poster/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>https://ebbert.nrw/poster/</guid>
+      <guid>/poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://ebbert.nrw/post/</link>
+      <link>/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>https://ebbert.nrw/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://ebbert.nrw/publication/</link>
+      <link>/publication/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>https://ebbert.nrw/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://ebbert.nrw/talk/</link>
+      <link>/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>https://ebbert.nrw/talk/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
