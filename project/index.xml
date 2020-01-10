@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Daniel Ebbert</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/project/</link>
+      <atom:link href="https://ebbert.nrw/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://ebbert.nrw/project/</link>
     </image>
     
     <item>
       <title>matomoR</title>
-      <link>/project/matomor/</link>
+      <link>https://ebbert.nrw/project/matomor/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/project/matomor/</guid>
+      <guid>https://ebbert.nrw/project/matomor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chisq.posthoc.test</title>
-      <link>/project/chisq-posthoc-test/</link>
+      <link>https://ebbert.nrw/project/chisq-posthoc-test/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/chisq-posthoc-test/</guid>
+      <guid>https://ebbert.nrw/project/chisq-posthoc-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opencastR</title>
-      <link>/project/opencastr/</link>
+      <link>https://ebbert.nrw/project/opencastr/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/project/opencastr/</guid>
+      <guid>https://ebbert.nrw/project/opencastr/</guid>
       <description></description>
     </item>
     
