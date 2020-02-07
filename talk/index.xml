@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Daniel Ebbert</title>
-    <link>https://ebbert.nrw/talk/</link>
-      <atom:link href="https://ebbert.nrw/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://ebbert.nrw/talk/featured.jpg</url>
+      <url>/talk/featured.jpg</url>
       <title>Talks</title>
-      <link>https://ebbert.nrw/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
+      <title>Are students binge watching lecture recordings? Students lecture recording usage patterns over time.</title>
+      <link>/talk/are-students-binge-watching-lecture-recordings-opencast-summit/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/are-students-binge-watching-lecture-recordings-opencast-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How students use (psychology) lecture recordings: An approach to explore study strategies</title>
-      <link>https://ebbert.nrw/talk/how-do-psychology-students-use-lecture-recordings/</link>
+      <link>/talk/how-do-psychology-students-use-lecture-recordings/</link>
       <pubDate>Thu, 26 Sep 2019 10:00:00 +0000</pubDate>
-      <guid>https://ebbert.nrw/talk/how-do-psychology-students-use-lecture-recordings/</guid>
+      <guid>/talk/how-do-psychology-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende</title>
-      <link>https://ebbert.nrw/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</link>
+      <link>/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</link>
       <pubDate>Thu, 12 Sep 2019 11:30:00 +0000</pubDate>
-      <guid>https://ebbert.nrw/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</guid>
+      <guid>/talk/vorlesungsaufzeichnungen-nutzen-anleitung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How do students use lecture recordings? A cluster analysis of evaluation data</title>
-      <link>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
+      <link>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</link>
       <pubDate>Wed, 05 Jun 2019 11:30:00 +0000</pubDate>
-      <guid>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
+      <guid>/talk/how-do-students-use-lecture-recordings-a-cluster-analysis-of-evaluation-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How do students use lecture recordings?</title>
-      <link>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</link>
+      <link>/talk/how-do-students-use-lecture-recordings/</link>
       <pubDate>Wed, 16 Jan 2019 10:15:00 +0000</pubDate>
-      <guid>https://ebbert.nrw/talk/how-do-students-use-lecture-recordings/</guid>
+      <guid>/talk/how-do-students-use-lecture-recordings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating lecture capture using Opencast</title>
-      <link>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</link>
+      <link>/talk/automating-lecture-capture-using-opencast/</link>
       <pubDate>Wed, 07 Jun 2017 11:00:00 +0000</pubDate>
-      <guid>https://ebbert.nrw/talk/automating-lecture-capture-using-opencast/</guid>
+      <guid>/talk/automating-lecture-capture-using-opencast/</guid>
       <description></description>
     </item>
     
