@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posters | Daniel Ebbert</title>
-    <link>/poster/</link>
-      <atom:link href="/poster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/poster/</link>
+      <atom:link href="https://ebbert.nrw/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>Posters</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Posters</title>
-      <link>/poster/</link>
+      <link>https://ebbert.nrw/poster/</link>
     </image>
     
     <item>
       <title>Wie nutzen Studierende Videoaufzeichnungen von Vorlesungen? Eine Clusteranalyse von Befragungsdaten</title>
-      <link>/poster/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
+      <link>https://ebbert.nrw/poster/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</link>
       <pubDate>Thu, 11 Oct 2018 11:00:00 +0000</pubDate>
-      <guid>/poster/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
+      <guid>https://ebbert.nrw/poster/wie-nutzen-studierende-videoaufzeichnungen-von-vorlesungen-eine-clusteranalyse-von-befragungsdaten/</guid>
       <description></description>
     </item>
     

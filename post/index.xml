@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Daniel Ebbert</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/post/</link>
+      <atom:link href="https://ebbert.nrw/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://ebbert.nrw/post/</link>
     </image>
     
     <item>
       <title>Vorlesungsaufzeichnungen nutzen: Eine Anleitung für Studierende</title>
-      <link>/post/anleitung-studierende-vorlesungsaufzeichnungen/</link>
+      <link>https://ebbert.nrw/post/anleitung-studierende-vorlesungsaufzeichnungen/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/anleitung-studierende-vorlesungsaufzeichnungen/</guid>
+      <guid>https://ebbert.nrw/post/anleitung-studierende-vorlesungsaufzeichnungen/</guid>
       <description>&lt;h1 id=&#34;preprint&#34;&gt;Preprint&lt;/h1&gt;
 &lt;p&gt;Im Dezember 2018 veröffentlichte &lt;a href=&#34;https://emilynordmann.github.io/&#34;&gt;Emily Nordmann&lt;/a&gt; zusammen mit einigen weiteren Autoren ein &lt;a href=&#34;https://doi.org/10.31234/osf.io/sd7u4&#34;&gt;Preprint&lt;/a&gt; mit dem Titel: &lt;strong&gt;Lecture capture: Practical recommendations for students and instructors&lt;/strong&gt;. In diesem Artikel werden praktische Empfehlungen zusammengestellt, die Strategien zum selbstregulierten Lernen mit der Nutzung von Vorlesungsaufzeichnungen unterstützen sollen. Für Studierende wird unterstrichen, wie wichtig es ist, in den Vorlesungen anwesend zu sein. Zusätzlich dazu wird diskutiert, wie die Vorlesungsaufzeichnungen am besten genutzt werden können.&lt;/p&gt;
 &lt;p&gt;Als ich diesen Preprint laß, dachte ich mir direkt, dass dies vernünftige Empfehlungen sind, die auf dem aktuellen Forschungsstand basieren. Einige dieser Empfehlungen passten auch zu meiner eigenen Erfahrungen aus dem Studium so wie den Erfahrungen aus meiner Arbeit als jemand, der die Vorlesungsaufzeichnungen verwaltet und deswegen viel mit Lehrenden und Studierenden zu tun hat. Im ganzen ist der Preprint meiner Meinung nach ein guter Artikel und ich freue mich schon darauf, die veröffentlichte Version zu lesen.&lt;/p&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>How students use lecture recordings</title>
-      <link>/post/how-students-use-lecture-recordings/</link>
+      <link>https://ebbert.nrw/post/how-students-use-lecture-recordings/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/how-students-use-lecture-recordings/</guid>
+      <guid>https://ebbert.nrw/post/how-students-use-lecture-recordings/</guid>
       <description>&lt;p&gt;The following post is a copy for my website of an article that was first published in the &lt;a href=&#34;https://news.media-and-learning.eu/featured-articles/how-students-use-lecture-recordings/&#34;&gt;Media &amp;amp; Learning Newsletter&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-students-use-lecture-recordings&#34;&gt;How students use lecture recordings&lt;/h1&gt;
 &lt;p&gt;At the University of Münster, Germany, the lecture capture service started in the winter term 2016/17. The systematic evaluations of the first three semesters demonstrated: students like the service because it warrants more freedom in the everyday organization of their studies. Providing more students with lecture recordings was a hot topic in the students parliament elections.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Daniel Ebbert</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/publication_types/2/</link>
+      <atom:link href="https://ebbert.nrw/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Thu, 09 Jan 2020 13:45:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://ebbert.nrw/publication_types/2/</link>
     </image>
     
     <item>
       <title>Patterns in students’ usage of lecture recordings: A cluster analysis of self-report data</title>
-      <link>/publication/2019-11-19-patterns-in-students-usage-of-lecture-recordings-a-cluster-analysis-of-self-report-data/</link>
+      <link>https://ebbert.nrw/publication/2019-11-19-patterns-in-students-usage-of-lecture-recordings-a-cluster-analysis-of-self-report-data/</link>
       <pubDate>Thu, 09 Jan 2020 13:45:00 +0000</pubDate>
-      <guid>/publication/2019-11-19-patterns-in-students-usage-of-lecture-recordings-a-cluster-analysis-of-self-report-data/</guid>
+      <guid>https://ebbert.nrw/publication/2019-11-19-patterns-in-students-usage-of-lecture-recordings-a-cluster-analysis-of-self-report-data/</guid>
       <description></description>
     </item>
     

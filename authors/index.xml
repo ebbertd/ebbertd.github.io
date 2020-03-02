@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Daniel Ebbert</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ebbert.nrw/authors/</link>
+      <atom:link href="https://ebbert.nrw/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright><lastBuildDate>Thu, 09 Jan 2020 13:45:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://ebbert.nrw/authors/</link>
     </image>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
+      <title>Stephan Dutke</title>
+      <link>https://ebbert.nrw/authors/stephan-dutke/</link>
       <pubDate>Thu, 09 Jan 2020 13:45:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Daniel Ebbert is currently working as a doctoral student at the University of Münster while also managing the lecture recordings for the university. His interests include lecture recordings, eLearing and learning analytics. He signed the &lt;a href=&#34;http://thecostofknowledge.com/index.php&#34;&gt;Cost of Knowledge&lt;/a&gt; as well as the &lt;a href=&#34;http://www.researchtransparency.org/&#34;&gt;Commitment to Research Transparency and Open Science&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://ebbert.nrw/authors/stephan-dutke/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Stephan Dutke</title>
-      <link>/authors/stephan-dutke/</link>
-      <pubDate>Thu, 09 Jan 2020 13:45:00 +0000</pubDate>
-      <guid>/authors/stephan-dutke/</guid>
-      <description></description>
+      <title></title>
+      <link>https://ebbert.nrw/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ebbert.nrw/authors/admin/</guid>
+      <description>&lt;p&gt;Daniel Ebbert is currently working as a doctoral student at the University of Münster while also managing the lecture recordings for the university. His interests include lecture recordings, eLearing and learning analytics. He signed the &lt;a href=&#34;http://thecostofknowledge.com/index.php&#34;&gt;Cost of Knowledge&lt;/a&gt; as well as the &lt;a href=&#34;http://www.researchtransparency.org/&#34;&gt;Commitment to Research Transparency and Open Science&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
