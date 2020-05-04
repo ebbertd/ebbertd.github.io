@@ -3,19 +3,19 @@
   <channel>
     <title>Daniel Ebbert</title>
     <link>https://ebbert.nrw/</link>
-    <description>Recent content on Daniel Ebbert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright>
-    
-	    <atom:link href="https://ebbert.nrw/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ebbert.nrw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Ebbert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Daniel Ebbert</copyright>
+    <image>
+      <url>https://ebbert.nrw/img/icon-192.png</url>
+      <title>Daniel Ebbert</title>
+      <link>https://ebbert.nrw/</link>
+    </image>
     
     <item>
       <title>Projects</title>
       <link>https://ebbert.nrw/project/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ebbert.nrw/project/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Posters</title>
       <link>https://ebbert.nrw/poster/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://ebbert.nrw/poster/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Posts</title>
       <link>https://ebbert.nrw/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://ebbert.nrw/post/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Publications</title>
       <link>https://ebbert.nrw/publication/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://ebbert.nrw/publication/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Talks</title>
       <link>https://ebbert.nrw/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://ebbert.nrw/talk/</guid>
       <description></description>
     </item>
