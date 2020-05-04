@@ -6,4 +6,13 @@
 	"m.identity_server": {
 		"base_url": "https://matrix.ebbert.nrw"
 	}
+,
+	"m.integrations": {
+		"managers": [
+			{
+				"api_url": "https://dimension.ebbert.nrw/api/v1/scalar",
+				"ui_url": "https://dimension.ebbert.nrw/riot"
+			}
+		]
+	}
 }
